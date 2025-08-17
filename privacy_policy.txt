@@ -1,8 +1,8 @@
-📌 Privacy Policy (Keeply)
+# 📌 Privacy Policy (Keeply)
 
 Keeply respects your privacy. This Privacy Policy explains what data we collect and how it is used.
 
-Information We Collect
+# Information We Collect
 
 User Information: When you sign in with Google, we collect your email address and profile picture URL to create and manage your account.
 

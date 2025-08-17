@@ -1,33 +1,41 @@
-✅ Privacy Policy
+📌 Privacy Policy (Keeply)
 
-At Keeply, we respect your privacy and are committed to protecting your information.
+Keeply respects your privacy. This Privacy Policy explains what data we collect and how it is used.
 
-1. Information We Collect
-When you use our app, we may collect the following limited information:
+Information We Collect
 
-Email address and profile picture URL, if you choose to sign in (e.g., with Google).
-This information is used solely to personalize your app experience.
+User Information: When you sign in with Google, we collect your email address and profile picture URL to create and manage your account.
 
-2. How We Use Your Information
-We use your basic profile data to identify your account within the app.
-We do not sell, share, or use your data for tracking or advertising purposes.
+Saved Content Metadata: Titles, URLs, descriptions, and images of links you save are stored locally on your device only. We do not store this data on our servers.
 
-3. Link Metadata
-When you save or share a link (e.g., YouTube, Instagram, or web page), we may extract publicly available metadata (title, description, image URL) using standard open web protocols such as Open Graph or oEmbed.
-This metadata is:
+How We Use Information
 
-Fetched dynamically from the original source.
+To enable account login and app functionality.
 
-Displayed for preview only.
+To allow you to save, view, and manage your content metadata.
 
-Not downloaded, modified, or stored on our servers.
+We do not use your data for ads, personalization, or tracking.
 
-4. Data Storage
-All user-saved content and metadata are stored locally on your device. We do not collect or store this content on our backend.
+Data Storage
 
-5. Children’s Privacy
-Our app is not intended for children under 13. We do not knowingly collect information from minors.
+User login info (email, profile picture URL) stored securely in our backend (Supabase).
 
-6. Contact Us
-For questions about this policy, contact:
-📧 huzaifadevansari@gmail.com
+Saved metadata is stored only on your device.
+
+Data Sharing
+
+We do not sell or share your personal data with third parties.
+
+Data Deletion
+
+You may request deletion of your account and related data at any time via our Data Deletion Form.
+link: https://docs.google.com/forms/d/e/1FAIpQLSf90c6NBnpYyZMwLbKevolQi58VD_XYs9obwJExNFTcLYFTnA/viewform?usp=sharing&ouid=113399022053320457831
+
+Security
+
+All communication with our servers is encrypted using HTTPS.
+
+Contact
+
+If you have questions, contact us at: [📧 huzaifadevansari@gmail.com].
+
